@@ -8,5 +8,5 @@
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) 修改而来, 感谢这个Hux。 
+1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) 修改而来, 感谢Hux师傅。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
